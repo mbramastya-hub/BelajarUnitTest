@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BelajarUnitTest</string>
+    <string name="settings_title">My Settings</string>
+    <string name="name_label">Your Name</string>
+    <string name="name_hint">Your Name</string>
+    <string name="dob_label">Your date of birth</string>
+    <string name="email_label">Your Email address</string>
+    <string name="email_hint">Your Email address</string>
+    <string name="save">SAVE</string>
+    <string name="revert">REVERT</string>
+</resources>
